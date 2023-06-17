@@ -3,8 +3,8 @@
 #include <stdio.h>
 /**
  *main - Entry point
- *Description : check for postive or negative numbers
- *return : always 0
+ *description: "check numbers if theyare positive or negative"
+ *Return: always 0
  */
 int main(void)
 {
