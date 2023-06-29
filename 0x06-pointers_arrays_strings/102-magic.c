@@ -1,8 +1,9 @@
 #include <stdio.h>
+/*main-info about pointers*/
 
 int main(void)
 {
-	 int n;
+	int n;
 	int a[5];
 	int *p;
 
@@ -21,3 +22,4 @@ int main(void)
 	printf("a[2] = %d\n", a[2]);
 	return (0);
 }
+
