@@ -1,5 +1,4 @@
 #include <stdio.h>
-/*main-info about pointers*/
 
 int main(void)
 {
